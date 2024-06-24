@@ -1,0 +1,15 @@
+Contagem regressiva para férias
+
+Fazer um contador regressivo de acordo com a data; DONE
+Video do Macaco Background; DONE
+Música de tensão; DONE
+
+Colocar a frase: Caso deseje cancelar, clique no botão abaixo
+Inserir um botão grande no meio da tela vermelho abaixo do contador.
+Ao clicar no botão vai abrir uma tela com um video de um macaco neurótico arrebentando tudo.
+Uma frase de zoom in vai aparecer informando que o macaco ficou doido e se não clicar no botão de voltar ele vai sumir
+Botão de voltar para a página anterior grande no meio da tela verde pulsando
+
+https://www.patreon.com/posts/botao-pulsante-67873401?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare
+
+https://www.youtube.com/watch?v=ti4v_HVIMLw

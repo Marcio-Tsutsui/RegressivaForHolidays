@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="src/assets/css/sovai.css">
+    <script type="text/javascript" src="src/js/sovai.js"></script>
+    <title>Contador Regressivo para Férias</title>
+</head>
+<body onmouseover="execSom()">
+    <div class="video-background">
+        <video autoplay muted loop id="bg-video">
+            <source src="src/assets/images/MonkeyWorking.mp4" type="video/mp4">
+        </video>
+    </div> 
+    <h1 id="title">Regressiva para as férias do Márcio:</h1>  
+    <div class="container">
+        <div id="countdown">
+            <div>
+                <span id="days">0</span>
+                <p>Days</p>
+            </div>
+            <div>
+                <span id="hours">0</span>
+                <p>Hours</p>
+            </div>
+            <div>
+                <span id="minutes">0</span>
+                <p>Minutes</p>
+            </div>
+            <div>
+                <span id="seconds">0</span>
+                <p>Seconds</p>
+            </div>
+        </div>
+        <h3>Para cancelar, clique no botão abaixo</h3>
+        <button id="cancel-button">STOP</button>
+        <h5>(Pense bem para não se arrepender!)</h5>
+    </div> 
+    <!-- Pop-up -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <video loop id="popup-video">
+                <source src="src/assets/images/CaesarSAYNO.mp4" type="video/mp4">
+            </video>
+            <button id="close-popup">Deixa ele descansar em paz</button>
+        </div>
+    </div>
+    <!-- RegressivaForHolidays -->
+    <audio style="visibility:hidden" autoplay loop="loop" id='playaudio'>
+        <source src="/src/assets/sounds/RequiemForDream.mp3" type="audio/mp3"/>
+    </audio>  
+</body>
+</html>
